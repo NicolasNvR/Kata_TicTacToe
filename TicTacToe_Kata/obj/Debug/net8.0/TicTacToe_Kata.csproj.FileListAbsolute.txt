@@ -1,0 +1,14 @@
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\bin\Debug\net8.0\TicTacToe_Kata.exe
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\bin\Debug\net8.0\TicTacToe_Kata.deps.json
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\bin\Debug\net8.0\TicTacToe_Kata.runtimeconfig.json
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\bin\Debug\net8.0\TicTacToe_Kata.dll
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\bin\Debug\net8.0\TicTacToe_Kata.pdb
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.AssemblyInfoInputs.cache
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.AssemblyInfo.cs
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.csproj.CoreCompileInputs.cache
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.dll
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\refint\TicTacToe_Kata.dll
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.pdb
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\TicTacToe_Kata.genruntimeconfig.cache
+C:\Projects\TicTacToe_Kata\TicTacToe_Kata\obj\Debug\net8.0\ref\TicTacToe_Kata.dll
